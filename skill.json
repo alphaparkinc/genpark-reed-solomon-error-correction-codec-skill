@@ -1,0 +1,17 @@
+{
+  "name": "genpark-reed-solomon-error-correction-codec-skill",
+  "version": "1.0.0",
+  "description": "Reed-Solomon (RS) error-correcting codec over Galois Field GF(2^8) generating parity syndromes, polynomial division, and multi-symbol error recovery.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "reed-solomon",
+    "galois-field",
+    "error-correction-code",
+    "forward-error-correction",
+    "channel-coding"
+  ],
+  "dependencies": []
+}
